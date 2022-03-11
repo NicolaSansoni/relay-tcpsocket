@@ -1,0 +1,16 @@
+{
+  "name": "relay-socket",
+  "version": "1.0.0",
+  "description": "safespotter relay socket utility",
+  "main": "relay.js",
+  "scripts": {
+    "test": "node test.js 192.168.1.100"
+  },
+  "author": "Nicola Sansoni",
+  "devDependencies": {
+    "debug": "^4.3.3",
+    "eslint": "^6.8.0",
+    "prettier": "^2.5.1"
+  },
+  "dependencies": {}
+}
